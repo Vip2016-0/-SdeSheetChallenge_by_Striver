@@ -1,4 +1,4 @@
-// Time Complexity :- O(nlogn)
+// Time Complexity :- O(n*2^n)
 // Space Complexity :- O(1)
 
 vector<int> subsetSum(vector<int> &num)
